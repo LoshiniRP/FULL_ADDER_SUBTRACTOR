@@ -64,6 +64,7 @@ Developed by: RegisterNumber: 25002119
 
 
 
+
 **TIMING WAVEFORM:**
 <img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/29724f1f-ca3b-42c8-bdbf-c19c96ca6307" />
 
